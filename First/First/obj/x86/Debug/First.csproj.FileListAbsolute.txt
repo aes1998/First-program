@@ -1,0 +1,5 @@
+/Users/AES/Desktop/C#/First/First/obj/x86/Debug/First.csproj.CoreCompileInputs.cache
+/Users/AES/Desktop/C#/First/First/bin/Debug/First.exe
+/Users/AES/Desktop/C#/First/First/bin/Debug/First.pdb
+/Users/AES/Desktop/C#/First/First/obj/x86/Debug/First.exe
+/Users/AES/Desktop/C#/First/First/obj/x86/Debug/First.pdb
